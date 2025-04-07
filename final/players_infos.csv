@@ -1,0 +1,127 @@
+NUMBER,PLAYER_URL,NAME,DATE_OF_BIRTH,CITIZENSHIP,CURRENT_CLUB,OUTFITTER,MV
+0,https://www.transfermarkt.com/radoslaw-majecki/profil/spieler/346546,Radoslaw Majecki,"Nov 16, 1999 (25)",['Poland'],AS Monaco,,7.00m
+1,https://www.transfermarkt.com/philipp-kohn/profil/spieler/251322,Philipp Köhn,"Apr 2, 1998 (27)","['Switzerland', 'Germany']",AS Monaco,,4.00m
+2,https://www.transfermarkt.com/yann-lienard/profil/spieler/745341,Yann Lienard,"Mar 16, 2003 (22)",['France'],AS Monaco,,200k
+3,https://www.transfermarkt.com/wilfried-singo/profil/spieler/648779,Wilfried Singo,"Dec 25, 2000 (24)","[""Cote d'Ivoire""]",AS Monaco,,25.00m
+4,https://www.transfermarkt.com/thilo-kehrer/profil/spieler/228948,Thilo Kehrer,"Sep 21, 1996 (28)","['Germany', 'Burundi']",AS Monaco,Nike,15.00m
+5,https://www.transfermarkt.com/mohammed-salisu/profil/spieler/563963,Mohammed Salisu,"Apr 17, 1999 (25)",['Ghana'],AS Monaco,Nike,15.00m
+6,https://www.transfermarkt.com/christian-mawissa/profil/spieler/1005240,Christian Mawissa,"Apr 18, 2005 (19)","['France', 'DR Congo']",AS Monaco,,12.00m
+7,https://www.transfermarkt.com/caio-henrique/profil/spieler/420064,Caio Henrique,"Jul 31, 1997 (27)","['Brazil', 'Spain']",AS Monaco,,15.00m
+8,https://www.transfermarkt.com/kassoum-ouattara/profil/spieler/947360,Kassoum Ouattara,"Oct 14, 2004 (20)","['France', ""Cote d'Ivoire""]",AS Monaco,,8.00m
+9,https://www.transfermarkt.com/vanderson/profil/spieler/789082,Vanderson,"Jun 21, 2001 (23)",['Brazil'],AS Monaco,,20.00m
+10,https://www.transfermarkt.com/jordan-teze/profil/spieler/364245,Jordan Teze,"Sep 30, 1999 (25)","['Netherlands', 'Congo']",AS Monaco,,12.00m
+11,https://www.transfermarkt.com/denis-zakaria/profil/spieler/334526,Denis Zakaria,"Nov 20, 1996 (28)","['Switzerland', 'DR Congo']",AS Monaco,adidas,30.00m
+12,https://www.transfermarkt.com/soungoutou-magassa/profil/spieler/745181,Soungoutou Magassa,"Oct 8, 2003 (21)","['France', 'Mali']",AS Monaco,adidas,12.00m
+13,https://www.transfermarkt.com/moatasem-al-musrati/profil/spieler/377641,Moatasem Al-Musrati,"Apr 6, 1996 (29)","['Libya', 'Portugal']",AS Monaco,,10.00m
+14,https://www.transfermarkt.com/lamine-camara/profil/spieler/918969,Lamine Camara,"Jan 1, 2004 (21)",['Senegal'],AS Monaco,,20.00m
+15,https://www.transfermarkt.com/edan-diop/profil/spieler/745178,Edan Diop,"Aug 28, 2004 (20)","['France', 'Senegal']",AS Monaco,,1.50m
+16,https://www.transfermarkt.com/aleksandr-golovin/profil/spieler/263918,Aleksandr Golovin,"May 30, 1996 (28)",['Russia'],AS Monaco,Nike,25.00m
+17,https://www.transfermarkt.com/eliesse-ben-seghir/profil/spieler/810895,Eliesse Ben Seghir,"Feb 16, 2005 (20)","['Morocco', 'France']",AS Monaco,adidas,30.00m
+18,https://www.transfermarkt.com/takumi-minamino/profil/spieler/165793,Takumi Minamino,"Jan 16, 1995 (30)",['Japan'],AS Monaco,adidas,15.00m
+19,https://www.transfermarkt.com/lucas-michal/profil/spieler/810909,Lucas Michal,"Jun 22, 2005 (19)","['France', 'Martinique']",AS Monaco U21,,500k
+20,https://www.transfermarkt.com/maghnes-akliouche/profil/spieler/745200,Maghnes Akliouche,"Feb 25, 2002 (23)","['France', 'Algeria']",AS Monaco,,40.00m
+21,https://www.transfermarkt.com/krepin-diatta/profil/spieler/490426,Krépin Diatta,"Feb 25, 1999 (26)",['Senegal'],AS Monaco,,10.00m
+22,https://www.transfermarkt.com/mika-biereth/profil/spieler/565821,Mika Biereth,"Feb 8, 2003 (22)","['Denmark', 'England']",AS Monaco,,25.00m
+23,https://www.transfermarkt.com/folarin-balogun/profil/spieler/503770,Folarin Balogun,"Jul 3, 2001 (23)","['United States', 'England']",AS Monaco,adidas,20.00m
+24,https://www.transfermarkt.com/george-ilenikhena/profil/spieler/1004834,George Ilenikhena,"Aug 16, 2006 (18)","['Nigeria', 'France']",AS Monaco,adidas,15.00m
+25,https://www.transfermarkt.com/breel-embolo/profil/spieler/237662,Breel Embolo,"Feb 14, 1997 (28)","['Switzerland', 'Cameroon']",AS Monaco,Nike,12.00m
+0,https://www.transfermarkt.com/lucas-perri/profil/spieler/352041,Lucas Perri,"Dec 10, 1997 (27)","['Brazil', 'Italy']",Olympique Lyon,adidas,10.00m
+1,https://www.transfermarkt.com/remy-descamps/profil/spieler/282028,Rémy Descamps,"Jun 25, 1996 (28)",['France'],Olympique Lyon,,1.50m
+2,https://www.transfermarkt.com/lassine-diarra/profil/spieler/1071430,Lassine Diarra,"Nov 11, 2002 (22)",['Mali'],Olympique Lyon B,,25k
+3,https://www.transfermarkt.com/moussa-niakhate/profil/spieler/291200,Moussa Niakhaté,"Mar 8, 1996 (29)","['Senegal', 'France']",Olympique Lyon,,15.00m
+4,https://www.transfermarkt.com/duje-caleta-car/profil/spieler/238266,Duje Caleta-Car,"Sep 17, 1996 (28)",['Croatia'],Olympique Lyon,,8.00m
+5,https://www.transfermarkt.com/warmed-omari/profil/spieler/711996,Warmed Omari,"Apr 23, 2000 (24)","['Comoros', 'France']",Olympique Lyon,Puma,4.00m
+6,https://www.transfermarkt.com/abner/profil/spieler/646402,Abner,"May 27, 2000 (24)",['Brazil'],Olympique Lyon,,9.00m
+7,https://www.transfermarkt.com/nicolas-tagliafico/profil/spieler/131225,Nicolás Tagliafico,"Aug 31, 1992 (32)","['Argentina', 'Italy']",Olympique Lyon,Nike,7.00m
+8,https://www.transfermarkt.com/ainsley-maitland-niles/profil/spieler/285845,Ainsley Maitland-Niles,"Aug 29, 1997 (27)","['England', 'Jamaica']",Olympique Lyon,Nike,10.00m
+9,https://www.transfermarkt.com/sael-kumbedi/profil/spieler/951579,Saël Kumbedi,"Mar 26, 2005 (20)","['France', 'DR Congo']",Olympique Lyon,,6.00m
+10,https://www.transfermarkt.com/clinton-mata/profil/spieler/187718,Clinton Mata,"Nov 7, 1992 (32)","['Angola', 'Belgium']",Olympique Lyon,,4.00m
+11,https://www.transfermarkt.com/tanner-tessmann/profil/spieler/670096,Tanner Tessmann,"Sep 24, 2001 (23)",['United States'],Olympique Lyon,,6.00m
+12,https://www.transfermarkt.com/nemanja-matic/profil/spieler/74683,Nemanja Matic,"Aug 1, 1988 (36)","['Serbia', 'Slovakia']",Olympique Lyon,Puma,2.50m
+13,https://www.transfermarkt.com/paul-akouokou/profil/spieler/429901,Paul Akouokou,"Dec 20, 1997 (27)","[""Cote d'Ivoire""]",Olympique Lyon,,800k
+14,https://www.transfermarkt.com/corentin-tolisso/profil/spieler/190393,Corentin Tolisso,"Aug 3, 1994 (30)","['France', 'Togo']",Olympique Lyon,,10.00m
+15,https://www.transfermarkt.com/jordan-veretout/profil/spieler/164771,Jordan Veretout,"Mar 1, 1993 (32)",['France'],Olympique Lyon,adidas,5.00m
+16,https://www.transfermarkt.com/thiago-almada/profil/spieler/576028,Thiago Almada,"Apr 26, 2001 (23)",['Argentina'],Olympique Lyon,adidas,25.00m
+17,https://www.transfermarkt.com/malick-fofana/profil/spieler/743386,Malick Fofana,"Mar 31, 2005 (20)","['Belgium', 'Guinea']",Olympique Lyon,,25.00m
+18,https://www.transfermarkt.com/rayan-cherki/profil/spieler/607223,Rayan Cherki,"Aug 17, 2003 (21)","['France', 'Algeria']",Olympique Lyon,adidas,35.00m
+19,https://www.transfermarkt.com/ernest-nuamah/profil/spieler/955070,Ernest Nuamah,"Nov 1, 2003 (21)",['Ghana'],Olympique Lyon,Nike,15.00m
+20,https://www.transfermarkt.com/georges-mikautadze/profil/spieler/729814,Georges Mikautadze,"Oct 31, 2000 (24)","['Georgia', 'France']",Olympique Lyon,,20.00m
+21,https://www.transfermarkt.com/alexandre-lacazette/profil/spieler/93720,Alexandre Lacazette,"May 28, 1991 (33)","['France', 'Guadeloupe']",Olympique Lyon,Puma,8.00m
+22,https://www.transfermarkt.com/enzo-molebe/profil/spieler/1106860,Enzo Molebe,"Sep 18, 2007 (17)","['France', 'DR Congo']",Olympique Lyon U19,Nike,100k
+0,https://www.transfermarkt.com/geronimo-rulli/profil/spieler/229604,Gerónimo Rulli,"May 20, 1992 (32)","['Argentina', 'Italy']",Olympique Marseille,,8.00m
+1,https://www.transfermarkt.com/jeffrey-de-lange/profil/spieler/315253,Jeffrey de Lange,"Apr 1, 1998 (27)",['Netherlands'],Olympique Marseille,adidas,2.50m
+2,https://www.transfermarkt.com/ruben-blanco/profil/spieler/199321,Rubén Blanco,"Jul 25, 1995 (29)",['Spain'],Olympique Marseille,,1.50m
+3,https://www.transfermarkt.com/jelle-van-neck/profil/spieler/727086,Jelle Van Neck,"Mar 7, 2004 (21)",['Belgium'],Olympique de Marseille B,,100k
+4,https://www.transfermarkt.com/leonardo-balerdi/profil/spieler/575998,Leonardo Balerdi,"Jan 26, 1999 (26)","['Argentina', 'Italy']",Olympique Marseille,,20.00m
+5,https://www.transfermarkt.com/luiz-felipe/profil/spieler/457931,Luiz Felipe,"Mar 22, 1997 (28)","['Italy', 'Brazil']",Olympique Marseille,adidas,6.00m
+6,https://www.transfermarkt.com/derek-cornelius/profil/spieler/328609,Derek Cornelius,"Nov 25, 1997 (27)","['Canada', 'Jamaica']",Olympique Marseille,,5.00m
+7,https://www.transfermarkt.com/chancel-mbemba/profil/spieler/203348,Chancel Mbemba,"Aug 8, 1994 (30)",['DR Congo'],Olympique Marseille,Puma,3.00m
+8,https://www.transfermarkt.com/quentin-merlin/profil/spieler/557613,Quentin Merlin,"May 16, 2002 (22)",['France'],Olympique Marseille,,12.00m
+9,https://www.transfermarkt.com/ulisses-garcia/profil/spieler/192616,Ulisses Garcia,"Jan 11, 1996 (29)","['Switzerland', 'Cape Verde']",Olympique Marseille,Nike,4.00m
+10,https://www.transfermarkt.com/amar-dedic/profil/spieler/519184,Amar Dedic,"Aug 18, 2002 (22)",['Bosnia-Herzegovina'],Olympique Marseille,,15.00m
+11,https://www.transfermarkt.com/amir-murillo/profil/spieler/354482,Amir Murillo,"Feb 11, 1996 (29)",['Panama'],Olympique Marseille,,9.00m
+12,https://www.transfermarkt.com/pol-lirola/profil/spieler/298975,Pol Lirola,"Aug 13, 1997 (27)",['Spain'],Olympique Marseille,Nike,4.00m
+13,https://www.transfermarkt.com/pierre-emile-hojbjerg/profil/spieler/167799,Pierre-Emile Højbjerg,"Aug 5, 1995 (29)","['Denmark', 'France']",Olympique Marseille,adidas,20.00m
+14,https://www.transfermarkt.com/ismael-bennacer/profil/spieler/351816,Ismaël Bennacer,"Dec 1, 1997 (27)","['Algeria', 'France']",Olympique Marseille,,15.00m
+15,https://www.transfermarkt.com/geoffrey-kondogbia/profil/spieler/127189,Geoffrey Kondogbia,"Feb 15, 1993 (32)","['Central African Republic', 'France']",Olympique Marseille,,8.00m
+16,https://www.transfermarkt.com/adrien-rabiot/profil/spieler/182913,Adrien Rabiot,"Apr 3, 1995 (30)",['France'],Olympique Marseille,Nike,25.00m
+17,https://www.transfermarkt.com/valentin-rongier/profil/spieler/332889,Valentin Rongier,"Dec 7, 1994 (30)",['France'],Olympique Marseille,,9.00m
+18,https://www.transfermarkt.com/bilal-nadir/profil/spieler/659520,Bilal Nadir,"Nov 28, 2003 (21)","['Morocco', 'France']",Olympique Marseille,adidas,5.00m
+19,https://www.transfermarkt.com/amine-harit/profil/spieler/372711,Amine Harit,"Jun 18, 1997 (27)","['Morocco', 'France']",Olympique Marseille,adidas,10.00m
+20,https://www.transfermarkt.com/darryl-bakola/profil/spieler/1170286,Darryl Bakola,"Nov 30, 2007 (17)","['France', 'Congo']",Olympique Marseille,,200k
+21,https://www.transfermarkt.com/luis-henrique/profil/spieler/691316,Luis Henrique,"Dec 14, 2001 (23)",['Brazil'],Olympique Marseille,adidas,18.00m
+22,https://www.transfermarkt.com/jonathan-rowe/profil/spieler/672381,Jonathan Rowe,"Apr 30, 2003 (21)","['England', 'Jamaica']",Olympique Marseille,,12.00m
+23,https://www.transfermarkt.com/mason-greenwood/profil/spieler/532826,Mason Greenwood,"Oct 1, 2001 (23)",['England'],Olympique Marseille,,35.00m
+24,https://www.transfermarkt.com/amine-gouiri/profil/spieler/418659,Amine Gouiri,"Feb 16, 2000 (25)","['Algeria', 'France']",Olympique Marseille,,20.00m
+25,https://www.transfermarkt.com/neal-maupay/profil/spieler/217115,Neal Maupay,"Aug 14, 1996 (28)","['France', 'Argentina']",Olympique Marseille,Puma,10.00m
+26,https://www.transfermarkt.com/faris-moumbagna/profil/spieler/599663,Faris Moumbagna,"Jul 1, 2000 (24)",['Cameroon'],Olympique Marseille,,8.00m
+0,https://www.transfermarkt.com/gianluigi-donnarumma/profil/spieler/315858,Gianluigi Donnarumma,"Feb 25, 1999 (26)",['Italy'],Paris Saint-Germain,adidas,35.00m
+1,https://www.transfermarkt.com/matvey-safonov/profil/spieler/318470,Matvey Safonov,"Feb 25, 1999 (26)",['Russia'],Paris Saint-Germain,Puma,22.00m
+2,https://www.transfermarkt.com/arnau-tenas/profil/spieler/466783,Arnau Tenas,"May 30, 2001 (23)",['Spain'],Paris Saint-Germain,,4.00m
+3,https://www.transfermarkt.com/willian-pacho/profil/spieler/661171,Willian Pacho,"Oct 16, 2001 (23)",['Ecuador'],Paris Saint-Germain,Nike,45.00m
+4,https://www.transfermarkt.com/marquinhos/profil/spieler/181767,Marquinhos,"May 14, 1994 (30)","['Brazil', 'Portugal']",Paris Saint-Germain,Nike,40.00m
+5,https://www.transfermarkt.com/lucas-beraldo/profil/spieler/872171,Lucas Beraldo,"Nov 24, 2003 (21)",['Brazil'],Paris Saint-Germain,Nike,25.00m
+6,https://www.transfermarkt.com/presnel-kimpembe/profil/spieler/282041,Presnel Kimpembe,"Aug 13, 1995 (29)","['France', 'DR Congo']",Paris Saint-Germain,Nike,8.00m
+7,https://www.transfermarkt.com/naoufel-el-hannach/profil/spieler/1053148,Naoufel El Hannach,"Dec 7, 2006 (18)","['Morocco', 'France']",Paris Saint-Germain Espoirs,,
+8,https://www.transfermarkt.com/nuno-mendes/profil/spieler/616341,Nuno Mendes,"Jun 19, 2002 (22)",['Portugal'],Paris Saint-Germain,adidas,55.00m
+9,https://www.transfermarkt.com/lucas-hernandez/profil/spieler/281963,Lucas Hernández,"Feb 14, 1996 (29)","['France', 'Spain']",Paris Saint-Germain,Nike,30.00m
+10,https://www.transfermarkt.com/achraf-hakimi/profil/spieler/398073,Achraf Hakimi,"Nov 4, 1998 (26)","['Morocco', 'Spain']",Paris Saint-Germain,Under Armour,65.00m
+11,https://www.transfermarkt.com/yoram-zague/profil/spieler/1047097,Yoram Zague,"May 15, 2006 (18)","['France', ""Cote d'Ivoire""]",Paris Saint-Germain,,2.50m
+12,https://www.transfermarkt.com/joao-neves/profil/spieler/670681,João Neves,"Sep 27, 2004 (20)",['Portugal'],Paris Saint-Germain,,65.00m
+13,https://www.transfermarkt.com/vitinha/profil/spieler/487469,Vitinha,"Feb 13, 2000 (25)",['Portugal'],Paris Saint-Germain,Nike,60.00m
+14,https://www.transfermarkt.com/warren-zaire-emery/profil/spieler/810092,Warren Zaïre-Emery,"Mar 8, 2006 (19)","['France', 'Martinique']",Paris Saint-Germain,Nike,60.00m
+15,https://www.transfermarkt.com/fabian-ruiz/profil/spieler/350219,Fabián Ruiz,"Apr 3, 1996 (29)",['Spain'],Paris Saint-Germain,adidas,35.00m
+16,https://www.transfermarkt.com/senny-mayulu/profil/spieler/903693,Senny Mayulu,"May 17, 2006 (18)","['France', 'DR Congo']",Paris Saint-Germain,Nike,10.00m
+17,https://www.transfermarkt.com/khvicha-kvaratskhelia/profil/spieler/502670,Khvicha Kvaratskhelia,"Feb 12, 2001 (24)",['Georgia'],Paris Saint-Germain,adidas,80.00m
+18,https://www.transfermarkt.com/bradley-barcola/profil/spieler/708265,Bradley Barcola,"Sep 2, 2002 (22)","['France', 'Togo']",Paris Saint-Germain,adidas,70.00m
+19,https://www.transfermarkt.com/desire-doue/profil/spieler/914562,Désiré Doué,"Jun 3, 2005 (19)","['France', ""Cote d'Ivoire""]",Paris Saint-Germain,,60.00m
+20,https://www.transfermarkt.com/ousmane-dembele/profil/spieler/288230,Ousmane Dembélé,"May 15, 1997 (27)",['France'],Paris Saint-Germain,adidas,75.00m
+21,https://www.transfermarkt.com/kang-in-lee/profil/spieler/557149,Kang-in Lee,"Feb 19, 2001 (24)","['Korea, South']",Paris Saint-Germain,adidas,30.00m
+22,https://www.transfermarkt.com/ibrahim-mbaye/profil/spieler/1185888,Ibrahim Mbaye,"Jan 24, 2008 (17)","['France', 'Senegal']",Paris Saint-Germain Espoirs,,2.00m
+23,https://www.transfermarkt.com/goncalo-ramos/profil/spieler/550550,Gonçalo Ramos,"Jun 20, 2001 (23)",['Portugal'],Paris Saint-Germain,Nike,45.00m
+0,https://www.transfermarkt.com/djordje-petrovic/profil/spieler/465555,Djordje Petrovic,"Oct 8, 1999 (25)",['Serbia'],RC Strasbourg Alsace,adidas,18.00m
+1,https://www.transfermarkt.com/alaa-bellaarouch/profil/spieler/667991,Alaa Bellaarouch,"Jan 1, 2002 (23)",['Morocco'],RC Strasbourg Alsace,,500k
+2,https://www.transfermarkt.com/karl-johan-johnsson/profil/spieler/112822,Karl-Johan Johnsson,"Jan 28, 1990 (35)",['Sweden'],RC Strasbourg Alsace,,400k
+3,https://www.transfermarkt.com/mamadou-sarr/profil/spieler/910905,Mamadou Sarr,"Aug 29, 2005 (19)","['France', 'Senegal']",RC Strasbourg Alsace,,15.00m
+4,https://www.transfermarkt.com/ismael-doukoure/profil/spieler/786436,Ismaël Doukouré,"Jul 24, 2003 (21)","['France', ""Cote d'Ivoire""]",RC Strasbourg Alsace,,15.00m
+5,https://www.transfermarkt.com/abakar-sylla/profil/spieler/962555,Abakar Sylla,"Dec 25, 2002 (22)","[""Cote d'Ivoire""]",RC Strasbourg Alsace,,12.00m
+6,https://www.transfermarkt.com/andrew-omobamidele/profil/spieler/621993,Andrew Omobamidele,"Jun 23, 2002 (22)","['Ireland', 'Nigeria']",RC Strasbourg Alsace,,10.00m
+7,https://www.transfermarkt.com/yoni-gomis/profil/spieler/988272,Yoni Gomis,"Sep 23, 2005 (19)","['France', 'Senegal']",RC Strasbourg Alsace,,1.00m
+8,https://www.transfermarkt.com/valentin-barco/profil/spieler/849410,Valentín Barco,"Jul 23, 2004 (20)",['Argentina'],RC Strasbourg Alsace,adidas,8.00m
+9,https://www.transfermarkt.com/eduard-sobol/profil/spieler/206717,Eduard Sobol,"Apr 20, 1995 (29)",['Ukraine'],RC Strasbourg Alsace,,1.20m
+10,https://www.transfermarkt.com/thomas-delaine/profil/spieler/170961,Thomas Delaine,"Mar 24, 1992 (33)",['France'],RC Strasbourg Alsace,,800k
+11,https://www.transfermarkt.com/guela-doue/profil/spieler/711980,Guéla Doué,"Oct 17, 2002 (22)","[""Cote d'Ivoire"", 'France']",RC Strasbourg Alsace,Puma,12.00m
+12,https://www.transfermarkt.com/pape-diong/profil/spieler/1183575,Pape Diong,"Jun 15, 2006 (18)",['Senegal'],RC Strasbourg Alsace,,800k
+13,https://www.transfermarkt.com/andrey-santos/profil/spieler/743600,Andrey Santos,"May 3, 2004 (20)",['Brazil'],RC Strasbourg Alsace,adidas,25.00m
+14,https://www.transfermarkt.com/habib-diarra/profil/spieler/876631,Habib Diarra,"Jan 3, 2004 (21)","['Senegal', 'France']",RC Strasbourg Alsace,Nike,20.00m
+15,https://www.transfermarkt.com/sebastian-nanasi/profil/spieler/579928,Sebastian Nanasi,"May 16, 2002 (22)","['Sweden', 'Hungary']",RC Strasbourg Alsace,,15.00m
+16,https://www.transfermarkt.com/felix-lemarechal/profil/spieler/659518,Félix Lemaréchal,"Aug 7, 2003 (21)","['France', ""Cote d'Ivoire""]",RC Strasbourg Alsace,,7.00m
+17,https://www.transfermarkt.com/tidiane-diallo/profil/spieler/1047100,Tidiane Diallo,"May 28, 2006 (18)","['France', 'Senegal']",Racing Strasbourg B,,
+18,https://www.transfermarkt.com/diego-moreira/profil/spieler/655006,Diego Moreira,"Aug 6, 2004 (20)","['Portugal', 'Belgium']",RC Strasbourg Alsace,Nike,10.00m
+19,https://www.transfermarkt.com/oscar-perea/profil/spieler/1015624,Óscar Perea,"Sep 27, 2005 (19)",['Colombia'],RC Strasbourg Alsace,,2.50m
+20,https://www.transfermarkt.com/dilane-bakwa/profil/spieler/540664,Dilane Bakwa,"Aug 26, 2002 (22)","['France', 'DR Congo']",RC Strasbourg Alsace,,18.00m
+21,https://www.transfermarkt.com/samuel-amo-ameyaw/profil/spieler/933900,Samuel Amo-Ameyaw,"Jul 18, 2006 (18)","['England', 'Ghana']",RC Strasbourg Alsace,,2.00m
+22,https://www.transfermarkt.com/abdoul-ouattara/profil/spieler/991487,Abdoul Ouattara,"Oct 22, 2005 (19)","[""Cote d'Ivoire"", 'France']",RC Strasbourg Alsace,,800k
+23,https://www.transfermarkt.com/emanuel-emegha/profil/spieler/559328,Emanuel Emegha,"Feb 3, 2003 (22)","['Netherlands', 'Nigeria']",RC Strasbourg Alsace,,20.00m
+24,https://www.transfermarkt.com/sekou-mara/profil/spieler/557612,Sékou Mara,"Jul 30, 2002 (22)","['France', 'Senegal']",RC Strasbourg Alsace,Nike,6.00m
+25,https://www.transfermarkt.com/moise-sahi-dion/profil/spieler/880330,Moïse Sahi Dion,"Dec 20, 2001 (23)","[""Cote d'Ivoire"", 'Mali']",RC Strasbourg Alsace,,1.50m
